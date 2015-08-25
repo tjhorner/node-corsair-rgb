@@ -1,6 +1,6 @@
 {
   "name": "corsair-rgb",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "description": "LibCorsairRGB API wrapper for Node",
   "main": "index.js",
   "scripts": {

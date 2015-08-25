@@ -29,7 +29,9 @@ keyboard.flushLightBuffer();
 
 Aliases: `initialise()`
 
-**Do this before changing anything else!** Initialize the library and find any keyboards or mice compatible with it (). (Mice don't work at the moment)
+**Do this before changing anything else!** Initialize the library and find any keyboards or mice compatible with it. (Mice don't work at the moment)
+
+This will return `0` if it found a keyboard and was initialized successfully.
 
 ### `setKeyColor(keycode, r, g, b)`
 
