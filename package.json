@@ -1,6 +1,6 @@
 {
   "name": "corsair-rgb",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "LibCorsairRGB API wrapper for Node",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "email": "me@tjhorner.com",
     "url": "http://tjhorner.com/"
   },
-  "license": "ISC",
+  "license": "GPL",
   "bugs": {
     "url": "https://github.com/tjhorner/node-corsair-rgb/issues"
   },
