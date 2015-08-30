@@ -1,5 +1,11 @@
 # node-corsair-rgb
 
+Available on npm as `corsair-rgb`
+
+```shell
+$ npm install --save corsair-rgb
+```
+
 [![](https://badge.fury.io/js/corsair-rgb.svg)](https://www.npmjs.com/package/corsair-rgb)
 
 A really bad API wrapper for LibCorsairRGB that I wrote in 10 minutes.
