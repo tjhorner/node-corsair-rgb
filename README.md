@@ -31,4 +31,4 @@ keyboard.setKeyColor(keyboard.keymap.all.a, 255, 255, 0);
 keyboard.flushLightBuffer();
 ```
 
-## [Docs](https://github.com/tjhorner/node-corsair-rgb/wiki)
+### [Docs](https://github.com/tjhorner/node-corsair-rgb/wiki)
