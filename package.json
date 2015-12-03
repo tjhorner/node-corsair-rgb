@@ -1,6 +1,6 @@
 {
   "name": "corsair-rgb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LibCorsairRGB API wrapper for Node",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/tjhorner/node-corsair-rgb",
   "dependencies": {
-    "ffi": "^1.3.1",
-    "nan": "^1.8.4"
+    "ffi": "^1.3.1"
   }
 }
