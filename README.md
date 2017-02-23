@@ -16,6 +16,10 @@ And keyboards.
 
 Only works on Windows because fuck it.
 
+## Install
+
+    $ npm install corsair-rgb
+
 ## Simple example
 
 This will make your "A" key yellow and all the others white.
